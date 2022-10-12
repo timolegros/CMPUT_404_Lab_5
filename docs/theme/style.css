@@ -1,7 +1,9 @@
 html, body {
-  margin: 10px;
-  border: 10px;
   font-size: 150%;
   background-color: #ff8000;
   color: #ffffff;
+}
+
+body {
+  margin: 0 auto;
 }
