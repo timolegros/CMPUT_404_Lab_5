@@ -1,6 +1,6 @@
 AUTHOR = 'Timothee Legros'
 SITENAME = 'My Cool Site'
-SITEURL = ''
+SITEURL = 'https://timolegros.github.io/CMPUT_404_Lab_5/'
 
 PATH = 'content'
 
@@ -26,6 +26,8 @@ SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
+
+THEME = 'templates/mytheme'
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
