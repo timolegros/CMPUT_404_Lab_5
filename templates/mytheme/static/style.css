@@ -5,3 +5,8 @@ html, body {
   background-color: #ff8000;
   color: #ffffff;
 }
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
