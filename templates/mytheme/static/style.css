@@ -1,9 +1,6 @@
 html, body {
+  margin: 0 auto;
   font-size: 150%;
   background-color: #ff8000;
   color: #ffffff;
-}
-
-body {
-  margin: 0 auto;
 }
